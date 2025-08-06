@@ -7,7 +7,7 @@ Motivated frontend developer with 12 years of experience in DTP graphics and des
 
 If you have any questions or opportunities, please don’t hesitate to contact me by email or phone.
 
-📧 [Mail](mailto:wojciech.galik@gmail.com) 
+📧 [Email](mailto:wojciech.galik@gmail.com) 
 
 📞 [Phone](tel:+48796144888) 
 
