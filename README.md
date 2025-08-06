@@ -62,7 +62,7 @@ Check out my open-source work below!
   Technologies: React, SCSS, JavaScript, CRA, REST API
     
 
-You can find more of my projects on [GitHub](https://github.com/wgalik) 
+You can find more of my projects on [GitHub]([https://github.com/wgalik](https://github.com/wgalik?tab=repositories)) 
 
 ---
 
