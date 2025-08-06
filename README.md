@@ -1,6 +1,6 @@
 # Hi, I'm Wojtek 👋
 
-** Frontend Developer (React / Vue with UI/Design background)**  
+**Frontend Developer (React / Vue with UI/Design background)**  
 *Available Immediately*
 
 Motivated frontend developer with 12 years of experience in DTP graphics and design. I build modern, responsive websites using React and Vue, combining technical skills with a strong design sense. I’m looking for a position where I can merge frontend development with my visual design experience to create polished and user-friendly interfaces.
