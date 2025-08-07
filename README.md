@@ -73,6 +73,7 @@ Check out my open-source work below!
   [Demo](https://wgalik.github.io/project_WG/) · [Repository](https://github.com/wgalik/project_WG)  
   🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · JavaScript · jQuery · REST API
 
-You can find more of my projects on [GitHub →](https://github.com/wgalik?tab=repositories)
+You can find more of my projects on [GitHub →](https://github.com/wgalik?tab=repositories) or in my [portfolio →](https://wgalik.github.io/Business-Card-Website/projects).
+
 
 
