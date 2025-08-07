@@ -55,7 +55,7 @@ Check out my open-source work below!
 
 - **Business Card Website** – personal portfolio site  
   [Demo](https://wgalik.github.io/Business-Card-Website/) · [Repository](https://github.com/wgalik/Business-Card-Website/tree/dev)  
-  🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · Vue.js · TypeScript · Vite
+  🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · Vue.js · TypeScript · Vue Router · Vite
 
 - **Memory Game** – logic game with multiple difficulty levels  
   [Demo](https://wgalik.github.io/Memory-Game---React/) · [Repository](https://github.com/wgalik/Memory-Game---React)  
