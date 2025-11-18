@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h2 align="center">Hi 👋, I'm Wojtek – Frontend Developer & Designer</h2>
+<h2 align="center">Hi 👋, I'm Wojtek – Frontend Developer</h2>
 <p align="center">
 Bringing modern, user-friendly interfaces to life by combining solid engineering experience with React, Vue, and a strong eye for detail.
 </p>
