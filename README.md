@@ -7,8 +7,8 @@ Bringing modern, user-friendly interfaces to life by combining solid engineering
 
 *Available Immediately*
 
-**Frontend Developer with a strong technical background gained during 12 years of experience as a Localization Engineer.**  
-Over the years, I worked closely with code, developer tools, and release processes, which gave me solid technical foundations, great attention to detail, and confidence in working with web technologies. I am currently focused on building modern, responsive interfaces and user-friendly solutions, combining engineering precision with a passion for frontend development.
+**Frontend Developer with a strong technical foundation built over 12 years working as a Localization Engineer.**  
+Although I am at the beginning of my commercial journey in frontend development, years of working closely with code, developer tools, and release processes have given me excellent attention to detail, strong problem-solving skills, and confidence in working with modern web technologies. I am focused on creating clean, responsive interfaces and continuously growing my expertise in frontend engineering.
 
 If you have any questions or opportunities, feel free to contact me:
 
