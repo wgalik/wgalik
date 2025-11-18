@@ -7,7 +7,8 @@ Bringing user-friendly interfaces to life with React, Vue, and strong UI design 
 
 *Available Immediately*
 
-I'm a motivated frontend developer with 12 years of experience in DTP graphics and design. I build accessible, fast, and visually engaging web apps using modern tools like React and Vue. My strong design background gives me a unique edge in crafting seamless and user-centered interfaces.
+**Frontend Developer with a strong technical background gained during 12 years of experience as a Localization Engineer.**
+Over the years, I worked closely with code, developer tools, and release processes, which gave me solid technical foundations, great attention to detail, and confidence in working with web technologies. I am currently focused on building modern, responsive interfaces and user-friendly solutions, combining engineering precision with a passion for frontend development.
 
 If you have any questions or opportunities, feel free to contact me:
 
