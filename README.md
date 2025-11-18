@@ -10,7 +10,7 @@ Bringing modern, user-friendly interfaces to life by combining solid engineering
 **Frontend Developer with a strong technical foundation built over 12 years working as a Localization Engineer.**  
 Although I am at the beginning of my commercial journey in frontend development, years of working closely with code, developer tools, and release processes have given me excellent attention to detail, strong problem-solving skills, and confidence in working with modern web technologies. I am focused on creating clean, responsive interfaces and continuously growing my expertise in frontend engineering.
 
-If you have any questions or opportunities, feel free to contact me:
+If you're interested in connecting or discussing potential opportunities, feel free to reach out:
 
 [📧 Email](mailto:wojciech.galik@gmail.com)  
 [📞 WhatsApp](https://wa.me/48796144888)  
