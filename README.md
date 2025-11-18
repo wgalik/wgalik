@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Wojtek – Frontend Developer & Designer</h2>
 <p align="center">
-Bringing user-friendly interfaces to life with React, Vue, and strong UI design skills.
+Bringing modern, user-friendly interfaces to life by combining solid engineering experience with React, Vue, and a strong eye for detail.
 </p>
 
 *Available Immediately*
