@@ -22,10 +22,13 @@ If you have any questions or opportunities, feel free to contact me:
 ### 🛠️ Skills
 
 - **Languages/Frameworks:**  
-  HTML5 · CSS3 · SCSS (Sass) · JavaScript (ES6+) · TypeScript · Bootstrap 5 · React · Vue.js 3 (Options & Composition API) · jQuery · PHP
+  - HTML5
+  - CSS3 · SCSS (Sass) · Bootstrap 5 · Tailwind CSS 
+  - JavaScript (ES6+) · TypeScript · React · Vue.js 3 · jQuery
+  - PHP
 
 - **Platforms/Tools:**  
-  WordPress · REST API · AJAX (fetch) · Git · GitHub · Vite · Webpack · npm
+  REST API · AJAX (fetch) · Git · GitHub · Vite · Webpack · npm
 
 - **Design:**  
   Adobe Photoshop · Illustrator · InDesign · Figma  
