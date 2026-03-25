@@ -7,7 +7,7 @@ Bringing modern, user-friendly interfaces to life by combining solid engineering
 
 *Available Immediately*
 
-**Frontend Developer with a strong technical foundation built over 12 years working as a Localization Engineer.**  
+**Frontend Developer with a strong technical foundation built over 12 years working as a DTP Specialist.**  
 Although I am at the beginning of my commercial journey in frontend development, years of working closely with code, developer tools, and release processes have given me excellent attention to detail, strong problem-solving skills, and confidence in working with modern web technologies. I am focused on creating clean, responsive interfaces and continuously growing my expertise in frontend engineering.
 
 If you're interested in connecting or discussing potential opportunities, feel free to reach out:
@@ -15,7 +15,7 @@ If you're interested in connecting or discussing potential opportunities, feel f
 [📧 Email](mailto:wojciech.galik@gmail.com)  
 [📞 WhatsApp](https://wa.me/48796144888)  
 [🐙 GitHub](https://github.com/wgalik)  
-[💼 LinkedIn](https://www.linkedin.com/in/wojciech-galik)
+
 
 ---
 
@@ -57,8 +57,8 @@ If you're interested in connecting or discussing potential opportunities, feel f
 
 Check out my open-source work below!
 
-- **Business Card Website** – personal portfolio site  
-  [Demo](https://wgalik.github.io/Business-Card-Website/) · [Repository](https://github.com/wgalik/Business-Card-Website/tree/dev)  
+- **My Portfolio** – personal portfolio site  
+  [Demo](https://frontend-wojtek.pl/) · [Repository](https://github.com/wgalik/Business-Card-Website/tree/dev)  
   🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · Vue.js · TypeScript · Vue Router · Vite
 
 - **Memory Game** – logic game with multiple difficulty levels  
@@ -77,7 +77,7 @@ Check out my open-source work below!
   [Demo](https://wgalik.github.io/project_WG/) · [Repository](https://github.com/wgalik/project_WG)  
   🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · JavaScript · jQuery · REST API
 
-You can find more of my projects on [GitHub →](https://github.com/wgalik?tab=repositories) or in my [portfolio →](https://wgalik.github.io/Business-Card-Website/projects).
+You can find more of my projects on [GitHub →](https://github.com/wgalik?tab=repositories) or in my [portfolio →](https://frontend-wojtek.pl/projects).
 
 
 
