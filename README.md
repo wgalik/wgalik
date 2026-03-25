@@ -61,6 +61,10 @@ Check out my open-source work below!
   [Demo](https://frontend-wojtek.pl/) · [Repository](https://github.com/wgalik/Business-Card-Website/tree/dev)  
   🧰 **Tech Stack:** HTML5 · CSS3 · Bootstrap · Vue.js · TypeScript · Vue Router · Vite
 
+- **DTP Specialist Landing Page** – professional landing page with portfolio and contact form powered by PHP backend  
+  [Demo](https://galik.biz/)   
+  🧰 **Tech Stack:** HTML5 · CSS3 · TypeScript · PHP (backend) · Vite
+
 - **Memory Game** – logic game with multiple difficulty levels  
   [Demo](https://wgalik.github.io/Memory-Game---React/) · [Repository](https://github.com/wgalik/Memory-Game---React)  
   🧰 **Tech Stack:** React · SCSS · React Router · React Context API · React Transition Group · Webpack
